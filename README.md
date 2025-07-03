@@ -32,7 +32,7 @@ Also, while the model is strong, it’s based on assumptions like linearity and 
  The importance of preprocessing and feature scaling in numeric datasets.
  How to use both numeric metrics and visual diagnostics to evaluate regression models.
  How interpretability (like coefficients) can be a major advantage of simple models like linear regression.
- That accuracy isn’t the only thing — understanding why the model performs well is just as important.
+ That accuracy isn’t the only thing  understanding why the model performs well is just as important.
 
  Final Thoughts
 
